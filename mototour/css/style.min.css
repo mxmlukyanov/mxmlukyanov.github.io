@@ -198,13 +198,13 @@ main h1, main h2 {
 }
 
 #route .day img {
-  width: 40%;
+  width: 45%;
   background-color: #D9D4C7;
   border: 2px solid #D9D4C7;
 }
 
 #route .day_descr {
-  margin-left: 15%;
+  margin-left: 10%;
   width: 50%;
 }
 
@@ -260,10 +260,11 @@ h4 {
     width: 100%;
   }
   #route .day_descr {
+    width: auto;
     margin-top: 24px;
     margin-bottom: 0;
     margin-left: 39px;
-    margin-right: 0;
+    margin-right: 39px;
   }
 }
 
